@@ -1,0 +1,7 @@
+[package]
+name = "jscore_and_crate2nix"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+javascriptcore-rs-sys = "1.1.1"
